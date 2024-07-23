@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "iransanse";
+    src: url("/public/font/iransans/Iranian Sans.ttf");
+}
+/* @font-face {
+    font-family: "Yekan";
+    src: url("/public/font/yekan/Yekan.eot");
+    src: url("/public/font/yekan/Yekan.ttf");
+    src: url("/public/font/yekan/Yekan.woff");
+} */
+body{
+    font-family:"iransanse";
+    
+}

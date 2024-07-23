@@ -1,0 +1,12 @@
+input[type= "text"]::placeholder,
+input[type= "number"]::placeholder,
+input[type= "email"]::placeholder,
+.form-control
+{
+    color: white;
+    font-size: larger;
+    
+    border-color: #bd93f9;
+  
+    
+}
